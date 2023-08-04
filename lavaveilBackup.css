@@ -18952,7 +18952,7 @@ h1 {
 
 
 /*top tab=================================new=======================================*/
-
+/*
 .top-tab-background {
   position: fixed;
   z-index: -1;
@@ -19061,4 +19061,4 @@ li a.top-tab-title:hover {
     transform: scale(1.15);
     opacity: 0;
   }
-}
+}*/
